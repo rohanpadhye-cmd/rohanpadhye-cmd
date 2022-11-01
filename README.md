@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f#file-hi-gif" width="30px" height="60px"> I'm Rohan Padhye</h1>
+<h1 align="center">Hello 👋🏻 I'm Rohan Padhye</h1>
 
  <br/>
 
